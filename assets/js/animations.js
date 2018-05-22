@@ -2,7 +2,7 @@
 $(document).ready(function(){
 
   $('.typed-content').typed({
-    strings:["a Designer^500","a Developer.^500", "Niranjan Ravichandran.^1000"],
+    strings:["a Researcher^500","a iOS Developer.^500", "Abdul Nasir B A.^1000"],
     typeSpeed: 100,
     loop: true,
     loopCount: 3,
