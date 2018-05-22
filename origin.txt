@@ -1,0 +1,220 @@
+Uri: http://nravichan.paperplane.io/
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\index.htm
+Content Type: text/html
+
+Uri: http://nravichan.paperplane.io/assets/icons/apple-icon-57x57.png
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\icons\apple-icon-57x57.png
+Content Type: image/png
+
+Uri: http://nravichan.paperplane.io/assets/icons/apple-icon-60x60.png
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\icons\apple-icon-60x60.png
+Content Type: image/png
+
+Uri: http://nravichan.paperplane.io/assets/icons/apple-icon-72x72.png
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\icons\apple-icon-72x72.png
+Content Type: image/png
+
+Uri: http://nravichan.paperplane.io/assets/icons/apple-icon-76x76.png
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\icons\apple-icon-76x76.png
+Content Type: image/png
+
+Uri: http://nravichan.paperplane.io/assets/icons/apple-icon-114x114.png
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\icons\apple-icon-114x114.png
+Content Type: image/png
+
+Uri: http://nravichan.paperplane.io/assets/icons/apple-icon-120x120.png
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\icons\apple-icon-120x120.png
+Content Type: image/png
+
+Uri: http://nravichan.paperplane.io/assets/icons/apple-icon-144x144.png
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\icons\apple-icon-144x144.png
+Content Type: image/png
+
+Uri: http://nravichan.paperplane.io/assets/icons/apple-icon-152x152.png
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\icons\apple-icon-152x152.png
+Content Type: image/png
+
+Uri: http://nravichan.paperplane.io/assets/icons/apple-icon-180x180.png
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\icons\apple-icon-180x180.png
+Content Type: image/png
+
+Uri: http://nravichan.paperplane.io/assets/icons/android-icon-192x192.png
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\icons\android-icon-192x192.png
+Content Type: image/png
+
+Uri: http://nravichan.paperplane.io/assets/icons/favicon-96x96.png
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\icons\favicon-96x96.png
+Content Type: image/png
+
+Uri: http://nravichan.paperplane.io/assets/icons/favicon-16x16.png
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\icons\favicon-16x16.png
+Content Type: image/png
+
+Uri: http://nravichan.paperplane.io/assets/icons/manifest.json
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\icons\manifest.json
+Content Type: application/json
+
+Uri: http://nravichan.paperplane.io/assets/css/bootstrap.css
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\css\bootstrap.css
+Content Type: text/css
+
+Uri: http://nravichan.paperplane.io/assets/css/style.css
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\css\style.css
+Content Type: text/css
+
+Uri: http://nravichan.paperplane.io/assets/css/font-awesome.min.css
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://nravichan.paperplane.io/assets/img/Scroll-Down.png
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\img\Scroll-Down.png
+Content Type: image/png
+
+Uri: http://nravichan.paperplane.io/assets/img/niranjan.png
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\img\niranjan.png
+Content Type: image/png
+
+Uri: http://nravichan.paperplane.io/assets/NRAVICHAN-Resume.pdf
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\NRAVICHAN-Resume.pdf
+Content Type: application/pdf
+
+Uri: http://nravichan.paperplane.io/assets/img/Xcode-icon-color.png
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\img\Xcode-icon-color.png
+Content Type: image/png
+
+Uri: http://nravichan.paperplane.io/assets/img/Octocat.png
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\img\Octocat.png
+Content Type: image/png
+
+Uri: http://nravichan.paperplane.io/assets/img/Atom-logo.svg.png
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\img\Atom-logo.svg.png
+Content Type: image/png
+
+Uri: http://nravichan.paperplane.io/assets/img/Sketch-icon.png
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\img\Sketch-icon.png
+Content Type: image/png
+
+Uri: http://nravichan.paperplane.io/assets/img/terminal.png
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\img\terminal.png
+Content Type: image/png
+
+Uri: http://nravichan.paperplane.io/assets/js/classie.js
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\js\classie.js
+Content Type: application/javascript
+
+Uri: http://nravichan.paperplane.io/assets/js/bootstrap.min.js
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://nravichan.paperplane.io/assets/js/smoothscroll.js
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\js\smoothscroll.js
+Content Type: application/javascript
+
+Uri: http://nravichan.paperplane.io/assets/js/animations.js
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\js\animations.js
+Content Type: application/javascript
+
+Uri: http://nravichan.paperplane.io/assets/js/jquery.stellar.min.js
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\js\jquery.stellar.min.js
+Content Type: application/javascript
+
+Uri: http://nravichan.paperplane.io/assets/js/main.js
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\js\main.js
+Content Type: application/javascript
+
+Uri: http://nravichan.paperplane.io/assets/js/typed.js
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\js\typed.js
+Content Type: application/javascript
+
+Uri: http://nravichan.paperplane.io/assets/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://nravichan.paperplane.io/assets/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://nravichan.paperplane.io/assets/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: http://nravichan.paperplane.io/assets/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/font-sfnt
+
+Uri: http://nravichan.paperplane.io/assets/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css?family=Oswald:400,300,700
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\css.css
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Lato:400,700
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\css-1.css
+Content Type: text/css
+
+Uri: https://cdn0.iconfinder.com/data/icons/thin-files-documents/57/thin-083_file_document_cv_curriculum_vitae_profile_id-512.png
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\data\icons\thin-files-documents\57\thin-083_file_document_cv_curriculum_vitae_profile_id-512.png
+Content Type: image/png
+
+Uri: http://nravichan.paperplane.io/assets/img/name-zig.png
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\img\name-zig.png
+Content Type: image/png
+
+Uri: http://nravichan.paperplane.io/assets/img/about-sep.jpg
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\img\about-sep.jpg
+Content Type: image/jpeg
+
+Uri: http://nravichan.paperplane.io/assets/img/portfolio-sep.jpg
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\img\portfolio-sep.jpg
+Content Type: image/jpeg
+
+Uri: http://nravichan.paperplane.io/assets/img/Charlotte.jpg
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\img\Charlotte.jpg
+Content Type: image/jpeg
+
+Uri: http://nravichan.paperplane.io/assets/img/zoom.png
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\img\zoom.png
+Content Type: image/png
+
+Uri: http://nravichan.paperplane.io/assets/fonts/fontawesome-webfont.eot?v=4.0.3
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://nravichan.paperplane.io/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://nravichan.paperplane.io/assets/fonts/fontawesome-webfont.woff?v=4.0.3
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: http://nravichan.paperplane.io/assets/fonts/fontawesome-webfont.ttf?v=4.0.3
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: http://nravichan.paperplane.io/assets/fonts/fontawesome-webfont.svg?v=4.0.3
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.gstatic.com/s/oswald/v16/TK3hWkUHHAIjg75-sh0Tus9H.ttf
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\s\oswald\v16\TK3hWkUHHAIjg75-sh0Tus9H.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v16/TK3iWkUHHAIjg752GT8D.ttf
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\s\oswald\v16\TK3iWkUHHAIjg752GT8D.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v16/TK3hWkUHHAIjg75-ohoTus9H.ttf
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\s\oswald\v16\TK3hWkUHHAIjg75-ohoTus9H.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\s\lato\v14\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Users\neelaganda.m\Documents\New folder\nravichan.paperplane.io\s\lato\v14\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
